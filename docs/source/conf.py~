@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'CTM'
-copyright = '2016,PragSo Technologies and Nusiv Technologies' 
+copyright = '2016' 
 author = 'PragSo Technologies and Nusiv Technologies'
 
 # The version info for the project you're documenting, acts as replacement for
